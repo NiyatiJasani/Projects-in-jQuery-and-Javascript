@@ -1,0 +1,16 @@
+body {
+    text-align: centre;
+}
+
+ul {
+    display: block;
+}
+
+.controls {
+    float: right;
+}
+
+#stats p {
+    color: red;
+    font: 20px;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Content Slider</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <style>
+        .red {
+            color: red;
+        }
+        
+        .green {
+            color: green;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        $(document).ready(function () {
+            $('.myLink').on('click', function () {
+                //                $('h1').addClass('red'); //add css class to h1 element
+                $('h1').fadeToggle(500);
+            })
+
+
+        });
+    </script>
+</body>
+<h1>Welcome Everyone</h1>
+<a href="#" class="myLink">Clck Me</a>
+
+</html>
