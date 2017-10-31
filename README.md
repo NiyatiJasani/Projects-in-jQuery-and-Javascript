@@ -3,7 +3,7 @@
 I have included my code and some notes from a project based course at Udemy :  [Course Link](https://www.udemy.com/projects-in-javascript-jquery/)
 
 
-## Project 1: Simple JavaScript Quiz [link](http://niyatijasani.github.io/Mini-Javascript-Quiz/)
+## Project 1: Simple JavaScript Quiz [link](http://niyatijasani.github.io/Projects-in-jQuery-and-Javascript/Mini-Javascript-Quiz/index.html)
 * This project implements  HTML5, CSS3, JavaScript, Variables & Arrays, Loops, Responsive Design
 
 ## Project 2: jQuery Content Slider [link](http://niyatijasani.github.io/Projects-in-jQuery-and-Javascript/Content-Slider/)
