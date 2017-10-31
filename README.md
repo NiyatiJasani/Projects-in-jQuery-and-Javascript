@@ -6,6 +6,8 @@ I have included my code and some notes from a project based course at Udemy :  [
 ## Project 1: Simple JavaScript Quiz [link](http://niyatijasani.github.io/Projects-in-jQuery-and-Javascript/Mini-Javascript-Quiz/.)
 * This project implements  HTML5, CSS3, JavaScript, Variables & Arrays, Loops, Responsive Design
 
+http://niyatijasani.github.io/Projects-in-jQuery-and-Javascript/Mini-Javascript-Quiz/
+
 ## Project 2: jQuery Content Slider [link](http://niyatijasani.github.io/Projects-in-jQuery-and-Javascript/Content-Slider/)
 
 * An application which displays a content slider and allows us to click a 'next' button to fade in the next slide and a 'prev' button to go in the reverse direction. 
