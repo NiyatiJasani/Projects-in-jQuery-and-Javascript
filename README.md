@@ -47,6 +47,8 @@ http://niyatijasani.github.io/projects-in-jQuery-and-Javascript/Mini-Javascript-
 * Use of   multi-page templates with jQuery Mobile.
 
 
+## Project 9 : Tic-Tac-Toe-Game[link](http://niyatijasani.github.io/projects-in-jQuery-and-Javascript/Tic-Tac-Toe-Game)
+Technologies: HTML5, CSS3, jQuery, JavaScript and use of Conditionals
 
 
 
