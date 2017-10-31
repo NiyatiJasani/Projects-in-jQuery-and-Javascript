@@ -5,12 +5,10 @@ I have included my code and some notes from a project based course at Udemy :  [
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## Project 1: Simple JavaScript Quiz [link](http://niyatijasani.github.io/Projects-in-jQuery-and-Javascript/Mini-Javascript-Quiz)
->>>>>>> 425537e484ca31c8f73fa66cf77e921413aa44ca
-=======
-## Project 1: Simple JavaScript Quiz [link](http://niyatijasani.github.io/Projects-in-jQuery-and-Javascript/Mini-Javascript-Quiz)
->>>>>>> 425537e484ca31c8f73fa66cf77e921413aa44ca
+>>>>>>> 425537e484ca31c8f73fa66cf77e921413aa44ca)
 * This project implements  HTML5, CSS3, JavaScript, Variables & Arrays, Loops, Responsive Design
 
 ## Project 2: jQuery Content Slider [link](http://niyatijasani.github.io/Projects-in-jQuery-and-Javascript/Content-Slider/)
