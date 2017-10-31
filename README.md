@@ -23,7 +23,7 @@ http://niyatijasani.github.io/projects-in-jQuery-and-Javascript/Mini-Javascript-
 * Create question and answer list items
 * Add event to show an answer under a particular event
 
-## Project 5: Ajax PHP Shoutbox [link](http://niyatijasani.github.io/projects-in-jQuery-and-Javascript/Ajax-PHP-Shoutbox/)
+## Project 5: Ajax PHP Shoutbox 
 * Build a shoutbox using Ajax, jQuery, PHP and MySQL.
 * Connect to MYSQL via a PHP file
 * Created an interface to make  a POST request to a PHP file which will insert the data into MySQL.
